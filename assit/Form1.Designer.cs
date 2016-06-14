@@ -157,7 +157,7 @@
             this.Controls.Add(this.DTt_work_date);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "状态控制";
             this.ResumeLayout(false);
             this.PerformLayout();
 
